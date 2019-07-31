@@ -1,0 +1,22 @@
+body {
+	background-image: url(prattodios.jpg);
+}
+h1 {
+	color: red;
+	font-style: verdana;
+	font-size:14px;
+}
+h2 {
+	color: white;
+	font-style: verdana;
+}
+label {
+	color: red;
+	font-style: verdana;
+}
+p {
+	color: white;
+}
+footer {
+	text-align: center;
+}
